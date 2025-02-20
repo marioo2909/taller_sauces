@@ -6,7 +6,7 @@ public class ejercicio_03 {
         Scanner scanner = new Scanner(System.in);
 
         // Solicitar al usuario una calificacion entre 0 y 10
-        System.out.print("Introduce una calificacion (entre 5 y 10): ");
+        System.out.print("Introduce una calificacion (entre 0 y 10): ");
         int calificacion = scanner.nextInt();
 
         // Verificar si la calificacion esta dentro del rango permitido
