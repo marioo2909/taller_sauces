@@ -15,7 +15,7 @@ public class ejercicio_01 {
         } else {
             System.out.println("El número no es positivo.");
         }
-
+		// A comment here
         // Cierra el scanner
         scanner.close();
     }
